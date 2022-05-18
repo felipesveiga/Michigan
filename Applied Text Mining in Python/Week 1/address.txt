@@ -1,0 +1,5 @@
+Nome,Localização
+José,Rua André Novaes 1100 - São Paulo - SP
+Pedro,Rua dos Pinheiros 310 - São Paulo - SP
+André,Avenida Paulista 902; São Paulo - SP
+Ana,Avenida Rebouças 101 - São Paulo - SP
